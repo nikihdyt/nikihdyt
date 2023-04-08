@@ -1,16 +1,18 @@
-### Hi there 👋
+<h3 align="center">Niki Hidayati</h3>
 
-<!--
-**nikihdyt/nikihdyt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"><samp>Software Engineering Student</samp></p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://wakatime.com/@niki" target="_blank">
+    <picture>
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=niki&border_radius=15px&theme=light&bg_color=eff1f5&border_color=eff1f5&custom_title=Weekly%20Stats&disable_animations=true">
+        <img alt="Weekly Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=niki&border_radius=15px&theme=dark&bg_color=1e1e2e&border_color=1e1e2e&custom_title=Weekly%20Stats&disable_animations=true">
+    </picture>
+  </a>
+</div>
+
+<br />
+
+[![wakatime](https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=WakaTime&logoColor=white)](https://wakatime.com/@niki)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niki-hidayati/)

@@ -1,3 +1,5 @@
-<h3 align="center">Niki</h3>
+<p >Call me Niki</p>
 
-<p align="center"><samp>Software Engineering Student</samp></p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=nikihdyt)](https://git.io/streak-stats)
+
+<p >🌟🦄🍭🌼🍬🌙 &emsp; °｡ &emsp; 🌟🦄🍭🌼🍬🌙 &emsp; °｡ &emsp; 🌟🦄🍭🌼🍬🌙</p>
